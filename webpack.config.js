@@ -56,6 +56,5 @@ module.exports = {
         loader: "eslint-loader"
       }
     ]
-  },
-  target: 'node'
+  }
 };
