@@ -7,8 +7,9 @@
     "start-time" : "18:00",
     "end-time": "21:00",
     "meeting-days" : ["Monday", "Wednesday"],
-    "start-date" : "January 3, 2022",
-    "end-date" : "February 16, 2022",
+    "start-date" : "2022-01-03T18:00:00",
+    "end-date" : "2022-02-16T21:00:00",
+    "recurrence": "RRULE:FREQ=WEEKLY; BYDAY=MO, WN; UNTIL=2022-02-16T21:00:00",
     "prerequisites" : false
   },
   {
