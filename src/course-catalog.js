@@ -1,5 +1,5 @@
-export default {
-  courses : [{
+export const Catalog = {
+  "courses" : [{
     "course-title" : "Intro to Programming",
     "instructor" : "Lloyd Reid",
     "description" : "",
@@ -143,6 +143,5 @@ export default {
     "start-date" : "January 3, 2022",
     "end-date" : "April 22, 2022",
     "prerequisites" : false
-  }
-]
-}
+  }] 
+};
